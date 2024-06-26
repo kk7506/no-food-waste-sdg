@@ -1,7 +1,7 @@
 # no-food-waste-sdg
 No Food Waste & Donation App
 Overview
-Welcome to the No Food Waste & Donation App! This application is designed to streamline the process of managing food donations for NGOs. Our goal is to reduce food waste by efficiently organizing and distributing donations to those in need. The system comprises three major modules: Admin, Restaurant, and , each with specific functionalities to manage the process smoothly.
+Welcome to the No Food Waste & Donation App! This application is designed to streamline the process of managing food donations for NGOs. Our goal is to reduce food waste by efficiently organizing and distributing donations to those in need. The system comprises three major modules: Admin, Restaurant, and , each with specific functionalities to manage the process smoothly.  
 
 Features
 
