@@ -8,11 +8,11 @@ Features
 Admin Module
 Register: Admin can register using personal details.
 Login: Admin can login to their personal account using ID and password.
+
 Restaurant Management:
 List Restaurants: View a list of all available restaurants.
 Add/Register New Restaurant: Admin can add or register new restaurants to the system.
-NGO Management:
-View All NGOs: View a list of all registered NGOs.
+NGO Management: View All NGOs: View a list of all registered NGOs.
 Add/Register New NGOs: Admin can add or register new NGOs to the system.
 
 Usage
