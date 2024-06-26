@@ -5,22 +5,34 @@ Welcome to the No Food Waste & Donation App! This application is designed to str
 
 Features
 
-Admin Module
-Register: Admin can register using personal details.
-Login: Admin can login to their personal account using ID and password.
+Admin Module  
 
-Restaurant Management:
-List Restaurants: View a list of all available restaurants.
-Add/Register New Restaurant: Admin can add or register new restaurants to the system.
-NGO Management: View All NGOs: View a list of all registered NGOs.
-Add/Register New NGOs: Admin can add or register new NGOs to the system.
+Register: Admin can register using personal details.  
+
+Login: Admin can login to their personal account using ID and password.  
+
+
+Restaurant Management:  
+
+List Restaurants: View a list of all available restaurants.  
+
+Add/Register New Restaurant: Admin can add or register new restaurants to the system.  
+
+NGO Management: View All NGOs: View a list of all registered NGOs.  
+
+Add/Register New NGOs: Admin can add or register new NGOs to the system.  
+
 
 Usage
 
-Register as a new user (admin, restaurant).
-Login to access the dashboard.
-Submit and manage food donation offers.
-Track inventory and plan distribution through the admin dashboard.
+Register as a new user (admin, restaurant).  
+
+Login to access the dashboard.  
+
+Submit and manage food donation offers.  
+
+Track inventory and plan distribution through the admin dashboard.  
+
 
 
 
